@@ -10,7 +10,7 @@ function Home() {
 
       <section className="relative bg-black text-white h-[620px] flex flex-col justify-center items-center">
         <img
-          src="public/assets/Image3.jpeg"
+          src="/assets/Image3.jpeg"
           alt="Electrical hardware background"
           className="absolute inset-0 w-full h-full object-cover opacity-60"
         />
@@ -29,7 +29,7 @@ function Home() {
       </section>
       <section className="relative bg-gray-900 text-white py-16 flex flex-col items-center mt-12">
         <img
-          src="public/assets/Image1.jpeg"
+          src="/assets/Image1.jpeg"
           alt="Hardware tools"
           className="absolute inset-0 w-full h-full object-cover opacity-40"
         />
