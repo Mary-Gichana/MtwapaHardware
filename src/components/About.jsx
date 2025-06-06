@@ -14,7 +14,7 @@ function About()   {
           </p>
         </div>
         <img
-          src="src/assets/Image2.jpeg"
+          src="public/assets/Image2.jpeg"
           alt="Shop interior"
           className="rounded shadow-lg w-full h-60 object-cover"
         />

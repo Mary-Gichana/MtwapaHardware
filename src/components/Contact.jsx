@@ -6,7 +6,7 @@ function Contact() {
       <h2 className="text-2xl font-semibold  text-center mt-12"> Contact Us</h2>
       <section className="relative bg-black text-white py-16 flex flex-col items-center mt-8">
         <img
-          src="src/assets/Image4.jpeg"
+          src="public/assets/Image4.jpeg"
           alt="Footer background"
           className="absolute inset-0 w-full h-full object-cover opacity-40"
         />
