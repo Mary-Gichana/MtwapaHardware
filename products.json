@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Cement",
     "description": "High-quality cement for construction",
-    "image": "/assets/cement.jpg"
+    "image": "https://pioneerhardwares.com/wp-content/uploads/2022/05/Simba-Cement.webp"
   },
   {
     "id": 2,
@@ -21,25 +21,19 @@
     "id": 4,
     "name": "Spray Paint",
     "description": "High-quality spray paint for various surfaces",
-    "image": "/assets/spraypaint.jpg"
-  },
-  {
-    "id": 5,
-    "name": "Light Bulbs",
-    "description": "Energy-efficient LED bulbs",
-    "image": "/assets/lightbulbs.jpg"
+    "image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/31/6775251/1.jpg?1465"
   },
   {
     "id": 6,
     "name": "Steel Bars",
     "description": "High-quality steel bars ",
-    "image": "/assets/steelbars.jpg"
+    "image": "https://constructionmaterials.co.ke/wp-content/uploads/2024/03/d16.jpg"
   },
   {
     "id": 7,
     "name": "Nails",
     "description": "Strong and durable nails",
-    "image": "/assets/nails.jpg"
+    "image": "https://5.imimg.com/data5/QK/CJ/MY-62683517/hardware-wire-nail-2mm-1000x1000.jpg"
   },
   {
     "id": 8,
@@ -49,14 +43,14 @@
   },
   {
     "id": 9,
-    "name": "Sockets",
-    "description": "Quality electrical sockets for safe installations",
-    "image": "/assets/sockets.jpg"
-  },
+    "name": "Hand tools",
+    "description": "Durable and reliable hammers for construction and repair",
+    "image": "https://5.imimg.com/data5/KJ/BG/MY-53559313/hand-tools-kit-500x500.jpg"
+  },  
   {
     "id": 10,
     "name": "Door Locks",
     "description": "Secure and durable door locks for safety",
-    "image": "/assets/doorlocks.jpg"
+    "image": "https://cedarclink.com/wp-content/uploads/2020/09/UNION-DEALOCK-3-LEVER-KSH-1800-1.jpg"
   }
 ]
