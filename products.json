@@ -9,13 +9,13 @@
     "id": 2,
     "name": "Paints",
     "description": "Durable and vibrant paints",
-    "image": "public/assets/Image7.jpeg"
+    "image": "/assets/Image7.jpeg"
   },
   {
     "id": 3,
     "name": "Electrical Wires",
     "description": "Safe and reliable electrical wires",
-    "image": "public/assets/Image8.jpeg"
+    "image": "/assets/Image8.jpeg"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "id": 8,
     "name": "Pipes",
     "description": "PVC pipes for plumbing",
-    "image": "public/assets/Image5.jpeg"
+    "image": "/assets/Image5.jpeg"
   },
   {
     "id": 9,
