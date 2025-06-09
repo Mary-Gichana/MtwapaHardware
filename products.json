@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Cement",
+    "description": "High-quality cement for construction",
+    "image": "/assets/cement.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Paints",
+    "description": "Durable and vibrant paints",
+    "image": "public/assets/Image7.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Electrical Wires",
+    "description": "Safe and reliable electrical wires",
+    "image": "public/assets/Image8.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Spray Paint",
+    "description": "High-quality spray paint for various surfaces",
+    "image": "/assets/spraypaint.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Light Bulbs",
+    "description": "Energy-efficient LED bulbs",
+    "image": "/assets/lightbulbs.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Steel Bars",
+    "description": "High-quality steel bars ",
+    "image": "/assets/steelbars.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nails",
+    "description": "Strong and durable nails",
+    "image": "/assets/nails.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Pipes",
+    "description": "PVC pipes for plumbing",
+    "image": "public/assets/Image5.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Sockets",
+    "description": "Quality electrical sockets for safe installations",
+    "image": "/assets/sockets.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Door Locks",
+    "description": "Secure and durable door locks for safety",
+    "image": "/assets/doorlocks.jpg"
+  }
+]

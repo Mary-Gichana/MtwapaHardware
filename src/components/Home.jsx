@@ -3,6 +3,7 @@ import Navbar from "./Navbar";
 import About from "./About";
 import Services from "./Services";
 import Contact from "./Contact";
+import Products from "./Products";
 function Home() {
   return (
     <div className="bg-gray-50 min-h-screen flex flex-col">
@@ -26,6 +27,10 @@ function Home() {
 
       <section id="about" className="bg-white">
         <About />
+      </section>
+
+      <section id="products" className="bg-white">
+        <Products />
       </section>
       <section className="relative bg-gray-900 text-white py-16 flex flex-col items-center mt-12">
         <img

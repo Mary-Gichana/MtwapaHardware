@@ -14,6 +14,9 @@ function Navbar() {
         <a href="#about" className="hover:text-green-400 transition">
           About
         </a>
+        <a href="#products" className="hover:text-green-400 transition">
+          Products
+        </a>
         <a href="#services" className="hover:text-green-400 transition">
           Services
         </a>
@@ -21,7 +24,6 @@ function Navbar() {
           Contact
         </a>
       </div>
-      
     </nav>
   );
 }
